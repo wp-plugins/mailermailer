@@ -6,7 +6,8 @@ MailerMailer's official Wordpress plugin
 
 The MailerMailer plugin allows you to easily add your signup form to your WordPress 3.5 or higher site through a widget or shortcode.
 
-In order to use this plugin you must have an API key provided by MailerMailer.
+In order to use this plugin you must have an API key provided by MailerMailer. If you don't have a 
+[MailerMailer](http://www.mailermailer.com/index.rwp) account, you're welcome to signup for a [free trial](https://www.mailermailer.com/signup.rwp) today.
 
 After plugin installation, you'll be asked to enter your API key so that we can retrieve your form. You'll then be able to customize the form appearance before you add it to your site. 
 
